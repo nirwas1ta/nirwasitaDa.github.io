@@ -1,15 +1,15 @@
 .jumbotron {
     padding-top: 6rem;
-    background-color: #415a77;
+    background-color: #283845;
     color: #e0e1dd ;
 }
 
 .about {
-    background-color: #e0e1dd;
+    background-color: #b8b08d;
 }
 
 #projects {
-    background-color: #415a77;
+    background-color: #283845;
 }
 
 .h2 {
@@ -21,17 +21,17 @@
 }
 
 .navbar {
-    background-color: #0d1b2a;
+    background-color: #202c39;
 }
 
 .contact {
-    background-color: #e0e1dd;
+    background-color: #b8b08d;
 }
 
 .footer {
-    background-color: #0d1b2a;
+    background-color: #202c39;
 }
 
 .btn {
-    background-color: #415a77;
+    background-color: #a99985;
 }
